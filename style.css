@@ -1,0 +1,34 @@
+@charset "UTF-8";
+/*
+Theme Name: Blue n Grey
+Theme URI: https://myperfectsite.co.uk/
+Author: Adam Walker
+Author URI: https://adamwalker.live/
+Description: WordPress theme based on the style of my portfolio site.
+Requires at least: 4.9.6
+Requires PHP: 5.2.4
+Version: 2.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: Blue Grey
+*/
+
+
+/* Variables */
+:root {
+    --font-sans: "Inter", Helvetica, sans-serif;
+    --font-serif: Iowan Old Style, Apple Garamond, Baskerville, Times New Roman,
+      Droid Serif, Times, Source Serif Pro, serif, Apple Color Emoji,
+      Segoe UI Emoji, Segoe UI Symbol;
+    --font-size: 18px;
+    --color-green: #27ae60;
+    --color-yellow: #ffda00;
+    --color-red: #ef1f22;
+    --color-pink: #f50057;
+    --color-dark: #333;
+    --color-light: #f2f2f2;
+    --transition-dur: 0.3s;
+  }
+  
+  /* Typography */
+  
